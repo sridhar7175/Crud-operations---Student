@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+.btn-danger {
+  outline: none !important;
+  border: none !important;
+}
+
+/* ---->NavBar Start------> */
+.nav-item .nav-link {
+  font-size: 18px;
+  font-weight: bold;
+}
+.navbar-brand {
+  font-size: 18px;
+  font-weight: bold;
+}
+/* ---->NavBar End------> */
+
+/* ---->Student Start----> */
+.formcontrol1 {
+  width: 300px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* --->Student End---------> */
